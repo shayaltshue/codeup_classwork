@@ -1,0 +1,1 @@
+This repository is a place for me to practice uploading to GITHUB, which I've heard is going to be something we'll have to do quite a bit (once a day at least, or so I've been told quite frequently)
